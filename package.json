@@ -1,16 +1,16 @@
 {
-  "name": "cordova-plugin-offbye-alipay",
+  "name": "cordova-plugin-shuhanxu-alipay",
   "version": "1.0.1",
   "description": "Makes your Cordova application enable to use the Alipay SDK",
   "cordova": {
-    "id": "cordova-plugin-offbye-alipay",
+    "id": "cordova-plugin-shuhanxu-alipay",
     "platforms": [
       "android", "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/offbye/cordova-plugin-alipay.git"
+    "url": "https://github.com/shuhanxu/cordova-plugin-alipay.git"
   },
   "keywords": [
     "cordova",
@@ -30,7 +30,7 @@
   "author": "",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/offbye/cordova-plugin-alipay"
+    "url": "https://github.com/shuhanxu/cordova-plugin-alipay"
   },
-  "homepage": "https://github.com/offbye/cordova-plugin-alipay"
+  "homepage": "https://github.com/shuhanxu/cordova-plugin-alipay"
 }
